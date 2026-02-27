@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #0f172a;
+  color: #e5e7eb;
+  text-align: center;
+}
+
+.hero {
+  padding: 80px 20px;
+  background: linear-gradient(135deg, #020617, #1e293b);
+}
+
+.section {
+  padding: 40px 20px;
+}
+
+h2 {
+  color: #38bdf8;
+}
+
+.skills {
+  list-style: none;
+  padding: 0;
+}
+
+.skills li {
+  background: #020617;
+  margin: 10px auto;
+  padding: 12px;
+  max-width: 300px;
+  border-radius: 10px;
+}
+
+footer {
+  background: #020617;
+  padding: 20px;
+}
